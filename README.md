@@ -1,7 +1,9 @@
 PBI-Dashboard-on_Ecommerce_Sales_Analysis
 
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/962dc251-555c-44be-a0f3-5f4510fa216e" />
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/253a4134-32a0-40f3-84c0-dc8815eb0637" />
+<img width="1322" height="743" alt="Dashboard" src="https://github.com/user-attachments/assets/7da1a2ef-b593-4798-959e-db95af5608d9" />
+<img width="1323" height="741" alt="Dashboard(1)" src="https://github.com/user-attachments/assets/6e4d6a35-dffe-4ffe-ae16-c0da28be5e99" />
+
+
 
  📊 Power BI Sales & Customer Demographics Dashboard
 
